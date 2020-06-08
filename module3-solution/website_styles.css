@@ -84,6 +84,62 @@ body{
     
 }
 /******Base styling******/
+ 
+  
+  #section1 {
+    position: relative;
+    float: top;
+    background: 100%;
+    
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  #section2{
+    position: relative;
+    float: left;
+    background: 100%;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  #section3{
+    position: relative;
+    float:left;
+    background: 100&;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* End Header */
+  
+}
+
+h2{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+#contents p{
+  text-align: center;
+ 
+}
+#contents h3{
+  position: relative;
+  float: top;
+  background-color: #000; 
+  text-align:  center;
+  font-family: oxygen;
+  padding: 2px;
+
+}
+#home-tiles section{
+    background-color: rgba(88, 216, 167, 0.925);
+    padding: 8px;
+    border:  1px solid #000;
+    margin-bottom: 10px;
+}
 
 /********** Large devices only **********/
 
@@ -179,62 +235,8 @@ body{
     height: 20px;
   }
 
-  
-  
-  #section1 {
-    position: relative;
-    float: top;
-    background: 100%;
-    
-    margin-right: 10px;
-    margin-left: 20px;
-    margin-bottom: 10px;
-  }
-  #section2{
-    position: relative;
-    float: left;
-    background: 100%;
-    margin-right: 10px;
-    margin-left: 20px;
-    margin-bottom: 10px;
-  }
-  #section3{
-    position: relative;
-    float:left;
-    background: 100&;
-    margin-right: 10px;
-    margin-left: 20px;
-    margin-bottom: 10px;
-  }
-  
-  /* End Header */
-  
-}
-
-h2{
-  margin-top: 30px;
-  margin-bottom: 30px;
-  text-align: center;
-}
-#contents p{
-  text-align: center;
  
-}
-#contents h3{
-  position: relative;
-  float: top;
-  background-color: #000; 
-  text-align:  center;
-  font-family: oxygen;
-  padding: 2px;
 
-}
-#home-tiles section{
-    background-color: rgba(88, 216, 167, 0.925);
-    padding: 8px;
-    border:  1px solid #000;
-    margin-bottom: 10px;
-}
 /* Desktop view options */
 
 
