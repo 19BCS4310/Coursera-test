@@ -23,6 +23,9 @@ body{
     margin: 10px 15px 10px 0px;
     
 }
+#section1 , #section2, #section3{
+  box-shadow: 0 0 80px black ;
+}
 
 .navbar-brand h1{
     font-family: 'Baloo Thambi 2', cursive;
