@@ -46,12 +46,22 @@ body{
 .navbar-brand p span{
     vertical-align:middle;
 }
-
+.navbar-brand,.navbar-nav li a{
+  line-height: 76px;
+  height: 76px;
+  padding-top: 0;
+}
+#nav-list{
+  background-color: #747371;
+}
+.navbar-collapse{
+  border-top: 0;
+}
 
 #nav-list a{
     color:#951C49;
     font-weight: bolder;
-    font-weight: 1.3em;
+    font-size: 1.3em;
     text-align: center;
 }
 #nav-list a:hover{
@@ -243,6 +253,18 @@ body{
     
     margin-bottom: 10px;
 }
+/* Desktop view options */
+
+
+
+/* Tablet view options */
+
+
+
+
+/* Mobile view options */
+
+
 /* Desktop view options */
 
 
